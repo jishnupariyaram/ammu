@@ -25,10 +25,6 @@ PM_START_TEXT = """
 python-telegram-bot library ഉപയോഗിച്ചാണ്....
 എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
-
-
-
-
 """
 
 HELP_STRINGS = """
